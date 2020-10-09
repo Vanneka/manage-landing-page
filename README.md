@@ -2,7 +2,7 @@
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
-## LIVE DEMO: 
+## LIVE DEMO: https://vanneka.github.io/manage-landing-page/
 
 ## Hi There! 👋
 
